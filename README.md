@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/KkE4apkl)
+# Movie Search App
+
+A React app for searching movies, viewing details, and saving favorites. It uses the OMDb API, React Router, and TanStack Query.
+
+## Run locally
+
+1. Install dependencies: `npm install`
+2. Copy `.env.example` to `.env` and add your OMDb API key as `VITE_OMDB_API_KEY`.
+3. Start the app: `npm run dev`
+
+The app includes movie search, individual movie pages, and a favorites page.
